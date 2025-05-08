@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dantri-scraper
 =======
 # Trình thu thập dữ liệu từ Dantri.com.vn
@@ -18,4 +17,4 @@ Dự án này thu thập dữ liệu bài viết từ báo Dân trí (Dantri.com
    ```bash
    git clone https://github.com/ntezz/dantri-scraper.git
    cd dantri-scraper
->>>>>>> 7aec75c (Bai tap lon dantri-scraper)
+
